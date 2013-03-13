@@ -1,0 +1,12 @@
+{
+    "name": "stevelacey/point-to-dnsimple",
+    "description": "Sync PointHQ domains & records to DNSimple.",
+    "require": {
+        "php": ">=5.3.3",
+        "kriswallsmith/buzz": "dev-master"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "minimum-stability": "dev"
+}
